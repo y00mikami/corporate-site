@@ -212,6 +212,9 @@ header {
     background-color: #f3f9fb;
     padding: 15px;
     margin-bottom: 0px; }
+  #contents #sidebar .pc_sidemenu li a {
+    color: #339fd1;
+    text-decoration: none; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
   #sub_cover {
