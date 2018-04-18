@@ -395,16 +395,28 @@ header{
     padding-bottom: 20px;
     
     .pc_sidemenu {
+      
           h3 {
-          color: #42b9d0;
-          font-size: 14px;
-          font-size: 1.4rem;
-          letter-spacing: 0.2rem;
-          font-weight: bold;
-          background-color: #f3f9fb;
-          padding: 15px;
-          margin-bottom: 0px;
-        }
+            color: #42b9d0;
+            font-size: 14px;
+            font-size: 1.4rem;
+            letter-spacing: 0.2rem;
+            font-weight: bold;
+            background-color: #f3f9fb;
+            padding: 15px;
+            margin-bottom: 0px;
+          }
+          
+          li {
+            
+              a {
+                
+                color: #339fd1;
+                text-decoration: none;
+                
+                }
+            
+            }
     }
   }
   
